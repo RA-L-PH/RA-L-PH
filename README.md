@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **ralphaacarvalho@gmail.com**
 
-- ⚡ Fun fact **<h3>I'm a self-proclaimed "Frontend Mad Scientist" and Full-Stack-Free Rebel. As a developer with a passion for creative coding, I bring the mantra "if it works, don’t mess with it" to life. I specialize in transforming ideas into innovative, functional web applications using a unique blend of technologies.</h3>**
+- <h4>⚡ Fun fact **I'm a self-proclaimed "Frontend Mad Scientist" and Full-Stack-Free Rebel. As a developer with a passion for creative coding, I bring the mantra "if it works, don’t mess with it" to life. I specialize in transforming ideas into innovative, functional web applications using a unique blend of technologies.**</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
