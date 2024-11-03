@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ralph Carvalho <RA-L-PH></h1>
-<h3 align="center">Nickname: The Firebase Alchemist | Coding Style: I view every project as an experiment and thrive on finding innovative solutions. My coding style is characterized by a willingness to explore unconventional methods, resulting in "Frankenstein" projects that combine creativity and functionality. Favorite Motto: "If it works, don’t mess with it." I stand by this principle while pushing the limits of frontend development, with Firebase as my trusty companion.</h3>
+<h3 align="center">Nickname: The Firebase Alchemist</h3>
+<p align="left"><h2>Coding Style:</h2>I view every project as an experiment and thrive on finding innovative solutions. My coding style is characterized by a willingness to explore unconventional methods, resulting in "Frankenstein" projects that combine creativity and functionality. Favorite Motto: "If it works, don’t mess with it." I stand by this principle while pushing the limits of frontend development, with Firebase as my trusty companion.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ra-l-ph&label=Profile%20views&color=0e75b6&style=flat" alt="ra-l-ph" /> </p>
 
