@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **MERN Stack, Firebase, API Integration**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-ralph.reflex.run/](https://portfolio-ralph.reflex.run/)
+- 👨‍💻 All of my projects are available at [my Portfolio](https://ra-l-ph.github.io/)
 
 - 💬 Ask me about **react, firebase, Apps Script**
 
