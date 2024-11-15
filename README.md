@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@ra-l-ph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@ra-l-ph" height="30" width="40" /></a>
+<a href="https://codepen.io/@RA-L-PH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@ra-l-ph" height="30" width="40" /></a>
 <a href="https://twitter.com/ralphcarvalho04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ralphcarvalho04" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ralph-carvalho-614b78257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ralph-carvalho-614b78257" height="30" width="40" /></a>
 </p>
